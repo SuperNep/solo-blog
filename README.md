@@ -10,7 +10,8 @@ nepNin 的个人博客
 
 ### 最新
 
-* [数据结构探究](http://nep.lain.fun/articles/2019/09/20/1568914828838.html)
+* [数据结构探究-链表](http://nep.lain.fun/articles/2019/09/24/1569259499679.html)
+* [数据结构探究-数组](http://nep.lain.fun/articles/2019/09/20/1568914828838.html)
 * [世界，你好！](http://nep.lain.fun/hello-solo)
 
 
