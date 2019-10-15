@@ -10,6 +10,7 @@ nepNin 的个人博客
 
 ### 最新
 
+* [数据结构探究-队列](http://nep.lain.fun/articles/2019/10/16/1571158503849.html)
 * [数据结构探究-栈](http://nep.lain.fun/articles/2019/10/09/1570554437497.html)
 * [我在 GitHub 上的开源项目](http://nep.lain.fun/my-github-repos)
 * [数据结构探究-链表](http://nep.lain.fun/articles/2019/09/24/1569259499679.html)
